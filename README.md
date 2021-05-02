@@ -7,6 +7,8 @@ A Third Person RPG
 
 ## References
 
+Kenney.nl https://www.patreon.com/posts/blender-export-16916038 https://cc0textures.com/
+
 ## Future Development
 
 ## Created By
