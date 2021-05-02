@@ -3,11 +3,11 @@ Project 05 for MSCH-C220
 
 A Third Person RPG
 
-# Implementation
+## Implementation
 
-# References
+## References
 
-# Future Development
+## Future Development
 
-# Created By
+## Created By
 Zachary Johnson
